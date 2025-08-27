@@ -1,3 +1,2 @@
 # odin-recipes
-A recipe book page with links to recipes
-
+A recipe book with links to recipes
